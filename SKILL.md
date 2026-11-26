@@ -1,5 +1,5 @@
 ---
-name: ielts-voice-examiner
+name: ielts-examiner
 description: 使用 2026 年 9–12 月雅思口语题库主持三部分语音模考，考后提供评分与修改建议。
 ---
 
